@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="default_web_client_id">
+        1086387999167-xxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com
+    </string>
+</resources>
