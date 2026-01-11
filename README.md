@@ -14,9 +14,9 @@ cara menjalankan dan menggunakan aplikasi Diary Lite:
 2. Tunggu hingga muncul tulisan "Gradle build finished" di bagian bawah.
 3. Pilih Perangkat Bisa menggunakan Hp Android Asli atau menggunakan Hp virtual
 5. Menggunakan Hp Virtual
-    1. Pilih nama Hp yang ingin digunakan pada Android Studio.
-    2. Klik tombol Run (segitiga hijau).
-    3. Panduan Penggunaan Aplikasi Diary (Fitur CRUD)
+   - Pilih nama Hp yang ingin digunakan pada Android Studio.
+   - Klik tombol Run (segitiga hijau).
+   - Panduan Penggunaan Aplikasi Diary (Fitur CRUD)
        
          a. Setelah aplikasi terbuka, berikut alur penggunaannya:
        
@@ -40,9 +40,9 @@ cara menjalankan dan menggunakan aplikasi Diary Lite:
                  - Keluar (Logout):
                    - Tekan tombol Logout untuk mengakhiri dan kembali ke halaman login.
 6. Menggunakan hp Android Asli
-    1. Aktifkan USB Debugging pada Opsi Pengembang pada Hp, hubungkan dengan kabel USB , dan pilih nama Hp di Android Studio.
-    2. Klik tombol Run (segitiga hijau). Aplikasi akan terinstal dan terbuka otomatis.
-    3. Panduan Penggunaan Aplikasi Diary (Fitur CRUD)
+   - Aktifkan USB Debugging pada Opsi Pengembang pada Hp, hubungkan dengan kabel USB , dan pilih nama Hp di Android Studio.
+   - Klik tombol Run (segitiga hijau). Aplikasi akan terinstal dan terbuka otomatis.
+   - Panduan Penggunaan Aplikasi Diary (Fitur CRUD)
        
          a. Setelah aplikasi terbuka, berikut alur penggunaannya:
        
