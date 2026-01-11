@@ -8,6 +8,7 @@ Tema Aplikasi + Aplikasi Rujukan Play Store (DiaryLite + Buku Catatan Daily Jurn
 ![image alt](https://raw.githubusercontent.com/lisdasahara/DiaryLite/7dd026fbd3e278e1ab37ae176603e10fca5a846f/WhatsApp%20Image%202026-01-10%20at%2016.29.01.jpeg)
 ![image alt](https://raw.githubusercontent.com/lisdasahara/DiaryLite/7dd026fbd3e278e1ab37ae176603e10fca5a846f/WhatsApp%20Image%202026-01-10%20at%2016.29.02.jpeg)
 ![image alt](https://raw.githubusercontent.com/lisdasahara/DiaryLite/7dd026fbd3e278e1ab37ae176603e10fca5a846f/WhatsApp%20Image%202026-01-10%20at%2016.29.03.jpeg)
+
 cara menjalankan dan menggunakan aplikasi Diary Lite:
 1. Buka Android Studio dan pilih Open ke folder project aplikasi Diary Anda.
 2. Tunggu hingga muncul tulisan "Gradle build finished" di bagian bawah.
