@@ -45,8 +45,11 @@ cara menjalankan dan menggunakan aplikasi Diary Lite:
     3. Panduan Penggunaan Aplikasi Diary (Fitur CRUD)
        
          a. Setelah aplikasi terbuka, berikut alur penggunaannya:
+       
              1. Masukkan Email & Password juga bisa menggunakan tombol Google untuk masuk cepat menggunakan akun Google
+       
              2. Kemudian akan menampilkan laman Diary
+       
              3. Halaman Utama:
                  - judul aplikasi dan tombol Logout di pojok kanan atas.
                  - Melihat semua momen yang telah dicatat
