@@ -17,6 +17,7 @@ cara menjalankan dan menggunakan aplikasi Diary Lite:
     1. Pilih nama Hp yang ingin digunakan pada Android Studio.
     2. Klik tombol Run (segitiga hijau).
     3. Panduan Penggunaan Aplikasi Diary (Fitur CRUD)
+       
          a. Setelah aplikasi terbuka, berikut alur penggunaannya:
              1. Masukkan Email & Password juga bisa menggunakan tombol Google untuk masuk cepat menggunakan akun Google
              2. Kemudian akan menampilkan laman Diary
@@ -36,6 +37,7 @@ cara menjalankan dan menggunakan aplikasi Diary Lite:
     1. Aktifkan USB Debugging pada Opsi Pengembang pada Hp, hubungkan dengan kabel USB , dan pilih nama Hp di Android Studio.
     2. Klik tombol Run (segitiga hijau). Aplikasi akan terinstal dan terbuka otomatis.
     3. Panduan Penggunaan Aplikasi Diary (Fitur CRUD)
+       
          a. Setelah aplikasi terbuka, berikut alur penggunaannya:
              1. Masukkan Email & Password juga bisa menggunakan tombol Google untuk masuk cepat menggunakan akun Google
              2. Kemudian akan menampilkan laman Diary
